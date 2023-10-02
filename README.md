@@ -10,7 +10,7 @@ Create a server that communicates with multiple client applications. Server shou
 2.2.	The clients should be listening for broadcasted messages.
 2.3.	Communication between the applications should print:
 
-     Server	                  Client 1	                   Client 2
+      Server                  Client 1                        Client 2
 “Unit 1” produced      Server produced “Unit 1”	     Server produced “Unit 1”
 -------------------------------------------------------------------------------
 “Unit n” produced      Server produced “Unit n”	     Server produced “Unit n”
